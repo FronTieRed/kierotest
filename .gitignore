@@ -37,3 +37,9 @@ obj/
 x64/
 .vs/
 .git/
+
+# idk
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vxcproj.user
